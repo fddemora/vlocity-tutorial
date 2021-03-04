@@ -39,4 +39,20 @@ OmniScripts type/prefixVerbObjectDetail - team/editAccount<br/>
 Integration Procedures - type/prefixVerbObjectDetail - team/getAccountDetails<br/>
 DataRaptors - prefixVerbObjectDetail - sampleGetAccountDetails<br/><br/>
 
+After completing VPE3, I must be able to explain or do: <br/>
+the features and capabilities of FlexCards<br/>
+use the data source wizard to select and configure a data source for flexcards<br/>
+navigate the flexcard designer's UI<br/>
+drag and drop elements onto a flexcard canvas<br/>
+configure element properties and style elements in the flexcard<br/>
+embed a child flexcard inside a parent flexcard<br/>
+configure a flyout to display additional information on a flexcard<br/>
+configure conditions that determine when different flexcard states display<br/>
+build a lightning console to display generated flexcard lightning web components <br/><br/>
+
+
+Flexcards are actually lightning web components! <br/>
+
+
+
 
