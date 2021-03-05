@@ -39,6 +39,8 @@ OmniScripts type/prefixVerbObjectDetail - team/editAccount<br/>
 Integration Procedures - type/prefixVerbObjectDetail - team/getAccountDetails<br/>
 DataRaptors - prefixVerbObjectDetail - sampleGetAccountDetails<br/><br/>
 
+
+## VPE3 FlexCards Overview
 After completing VPE3, I must be able to explain or do: <br/>
 the features and capabilities of FlexCards<br/>
 use the data source wizard to select and configure a data source for flexcards<br/>
@@ -50,9 +52,32 @@ configure a flyout to display additional information on a flexcard<br/>
 configure conditions that determine when different flexcard states display<br/>
 build a lightning console to display generated flexcard lightning web components <br/><br/>
 
+Here are additional things to have learned in VPE3: (Exercise Guide)<br/>
+Use the data source wizard to select and configure a data source<br/>
+Navigate the flexcard designer's UI <br/>
+Drag and drop elements onto a flexcard canvas <br/>
+Use the menu element to display a list of actions on a flexcard <br/>
+Use a Vlocity Action to link an OmniScript to a flexcard <br/>
+Use an OmniScript Action to link an OmniScript to a flexcard <br/>
+Make a collapsible block <br/>
+Clone a flexcard <br/>
+Launch an OmniScript in a modal window <br/>
+Configure a field to display a date properly <br/>
+Push data from a parent flexcard to a child flexcard <br/>
+Configure a data source for displaying external data <br/>
+Add an image to a Flexcard <br/>
+Create a table <br/>
+Configure a Flyout action <br/>
+Configure conditions that determine when different flexcard states display <br/>
+Build a lightning console <br/><br/>
+
 
 Flexcards are actually lightning web components! <br/>
+Flexcards are able to have different states depending on a condition <br/>
+Flexcards are also able to conditionally display or not <br/>
+Flexcards are able to be embedded inside an omniscript? The flexcard is able to get data from the omniscript. <br/>
+Flyouts is basically a flexcard the appears when an action is clicked on the flexcard <br/><br/>
 
-
+Flexcard teamMasterAccount was created. It used an integration procedure (teamGetMasterAccountDetails)that returned back stub data(Set Values). JSON value was filtered for accounts only. <br/>
 
 
