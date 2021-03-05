@@ -80,4 +80,10 @@ Flyouts is basically a flexcard the appears when an action is clicked on the fle
 
 Flexcard teamMasterAccount was created. It used an integration procedure (teamGetMasterAccountDetails)that returned back stub data(Set Values). JSON value was filtered for accounts only. <br/>
 
+### (FlexCards) exam expectations - 20%
+Given a set of requirements, determine appropriate data sources, fields, and actions to configure on flexcards <br/>
+Explain the JSON data structure that supports FlexCards <br/>
+Given a set of functional requirements for FlexCards, match these requirements to FlexCards functionality. <br/>
+I do note nothing tested on classic cards. On another note, there are 60 questions with a pass score of 70%. There should be about 12 questions on flexcards. <br/><br/>
+
 
