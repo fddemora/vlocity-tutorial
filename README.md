@@ -87,3 +87,19 @@ Given a set of functional requirements for FlexCards, match these requirements t
 I do note nothing tested on classic cards. On another note, there are 60 questions with a pass score of 70%. There should be about 12 questions on flexcards. <br/><br/>
 
 
+
+
+
+
+## Notes from documentation
+
+IDX Workbench with vsCode is preferred over Salesforce DX because then it's possible to migrate vlocity components and compare source and target files. It's a tool for migration. IDX Workbench with visual studio though or with Salesforce DX vsCode...<br/>
+
+The following migrations are supported:<br/>
+One Vlocity org to another<br/>
+Vlocity org to git repository <br/>
+git repository to vlocity org <br/>
+vlocity process library to vlocity org<br/>
+JSON file to a git repository or vlocity org <br/><br/>
+
+In IDX, you define a repository or source org, the target org or repository, and the components to be migrated. This means that I use vsCode to push my code to git. From there I connect git as a source and a vlocity org as the target. <br/>
