@@ -80,6 +80,22 @@ Flyouts is basically a flexcard the appears when an action is clicked on the fle
 
 Flexcard teamMasterAccount was created. It used an integration procedure (teamGetMasterAccountDetails)that returned back stub data(Set Values). JSON value was filtered for accounts only. <br/>
 
+### Q&A VPE3-1 <br/>
+How can you change the Author of a FlexCard? I don't think it's possible to change the author. To change author, it's required to clone first <br/>
+What are the naming restrictions for the Name and Author fields? Names and authors can contain only underscore and alphanumeric chracters. It also can't end with underscore. <br/>
+What are some of the data sources available in a FlexCard? Integration Procedure, Apex REST(Uses a REST endpoint of an Apex class to return data), DataRaptor(uses a dataraptor extract interface to return data),REST:Web(Uses standard REST API call to return data from the URL of a callout endpoint),SOQL Query. <br/>
+Where can you set and configure the data source for a FlexCard? When creating a new flexcard and the setup panel. <br/>
+Why did you filter the JSON node on the FlexCard? As per documentation, best practice is to only pass on the data that you need to use to a card. The card is account focused, so it's best to only include account data. 
+Why didn’t you need to use test values in this lab? Because it's not live data and test parameters are not needed at the moment. <br/>
+What panel needs to be open in order to drag elements onto a FlexCard canvas? The Build panel. <br/>
+Why are the Name, Title, and Author fields disabled in the Setup panel in every FlexCard? Name and Author need to be cloned in order for it to be changed. Title can be changed. <br/><br/>
+
+Best practices: FlexCard Names must begin with a letter, combination of name and author must be unique in the org, only contain underscores,alphanumeric characters, and no spaces. and can't end with an underscore or have two consecutive underscores <br/>
+
+### VPE 3-2 Building and styling a flexcard
+
+
+
 ### (FlexCards) exam expectations - 20%
 Given a set of requirements, determine appropriate data sources, fields, and actions to configure on flexcards <br/>
 Explain the JSON data structure that supports FlexCards <br/>
