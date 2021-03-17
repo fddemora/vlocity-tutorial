@@ -94,6 +94,11 @@ Best practices: FlexCard Names must begin with a letter, combination of name and
 
 ### VPE 3-2 Building and styling a flexcard
 
+Omniscript action must be fully configured for each flexcard <br/>
+Vlocity action can deploy on multiple cards <br/>
+Navigate and flyout are two other commonly used actions <br/>
+Styles can be saved to be reused on other elements. Saved Styles can only be applied to one flexcard<br/>
+
 
 
 ### (FlexCards) exam expectations - 20%
