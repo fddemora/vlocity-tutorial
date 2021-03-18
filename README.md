@@ -99,7 +99,12 @@ Vlocity action can deploy on multiple cards <br/>
 Navigate and flyout are two other commonly used actions <br/>
 Styles can be saved to be reused on other elements. Saved Styles can only be applied to one flexcard<br/>
 
-
+#### VPE 3-2 Q&A
+What is an advantage to using Block elements in a FlexCard canvas? Organization of data or combine logical groups of elements inside a collapisble container. An advantage is the shadow dom, style the block and not let that affect other blocks.  <br/>
+What is the Responsiveness feature for and how does it work? It changes the width as the page called viewport changes. It's designed for mobile, tablet, and desktop users. <br/>
+What are three ways to add a data field to a FlexCard canvas? Drag field elements from build to canvas. Drag the text element which is a rich text field. Finally, the fields list that takes data from the data source. <br/>
+What does a Vlocity Action allow you to do? Vlocity Actions are generated URLS that launch Vlocity Omniscripts, vlocity card components, web pages, or external applications. 
+What is an advantage and disadvantage of using an OmniScript Action? Doesn't need a vlocity action. Disadvantage is that it needs to be configured each time.
 
 ### (FlexCards) exam expectations - 20%
 Given a set of requirements, determine appropriate data sources, fields, and actions to configure on flexcards <br/>
@@ -108,7 +113,7 @@ Given a set of functional requirements for FlexCards, match these requirements t
 I do note nothing tested on classic cards. On another note, there are 60 questions with a pass score of 70%. There should be about 12 questions on flexcards. <br/><br/>
 
 
-
+### VPE 3-3 Working with Child FlexCards
 
 
 
